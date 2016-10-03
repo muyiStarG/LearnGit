@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 I am try to modify readme.txt
 Git has a mutable index called stage.
 Git tracks changes.
+My stupid boss still prefers SVN.
