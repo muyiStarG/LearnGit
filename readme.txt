@@ -14,4 +14,8 @@ fix bug 101 on branch bug101
 =======
 using git stash in dev branch
 >>>>>>> dev
+<<<<<<< HEAD
 mylocal dev branch;
+=======
+other local dev branch;
+>>>>>>> 0292aaa0bbef17881a8b9e1143eb7ac87970ebe5
