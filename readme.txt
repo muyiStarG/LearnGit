@@ -14,4 +14,4 @@ fix bug 101 on branch bug101
 =======
 using git stash in dev branch
 >>>>>>> dev
-local dev branch;
+mylocal dev branch;
