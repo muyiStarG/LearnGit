@@ -8,4 +8,5 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 --no-ff 
-fix bug 101
+fix bug 101 on branch master
+fix bug 101 on branch bug101
